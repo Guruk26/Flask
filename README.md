@@ -57,11 +57,3 @@ The JSON API accepts a `POST` request at `/api`:
 ```
 
 Run the other lessons with their filename, for example `python image.py`.
-
-## GitHub notes
-
-The virtual environment is intentionally excluded. Create it locally using the setup steps above. The GitHub-ready copy also fixes the JSON parsing and calculation in `app.py`.
-
-## License
-
-Add a license before publishing if you would like others to reuse or modify this project.
